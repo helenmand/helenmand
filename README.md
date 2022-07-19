@@ -1,7 +1,7 @@
 ### Salut, I am Eleni 👋
 I am currently studying computer science in Aristotle University of Thessaloniki.
 
-My interests include **Data Science** and **Machine Learning**. I am also fascinated about algorithms and problem solving. In my free time I read books, draw and solving leetcode problems.
+My interests include **Data Science** and **Machine Learning**. I am also fascinated about **algorithms** and **problem solving**. In my free time I read **books**, **draw** and solve **leetcode** problems.
 
 ## Languages
 The languages I am mostly familiar with are:
