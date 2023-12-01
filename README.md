@@ -1,5 +1,5 @@
 ### Salut, I am Eleni 👋
-I am currently studying computer science in Aristotle University of Thessaloniki.
+I am a Master's student at the Aristotle University of Thessaloniki in Data and Web Science.
 <!--
 **helenmand/helenmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
