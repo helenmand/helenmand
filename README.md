@@ -1,5 +1,10 @@
-### Salut, I am Eleni 👋
-I am a Master's student at the Aristotle University of Thessaloniki in Data and Web Science.
+<h1 align="center">Salut, I am Eleni 👋</h1>
+
+<p align="center">
+  I am a Master's student @ the Aristotle University of Thessaloniki in the Data and Web Science Program.
+</p>
+
+
 <!--
 **helenmand/helenmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
