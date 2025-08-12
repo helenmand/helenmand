@@ -1,7 +1,7 @@
-<h1 align="center">Salut, I am Eleni 👋</h1>
+<h1 align="center">Hi there, I am Eleni 👋</h1>
 
 <p align="center">
-  I am a Master's student @ the Aristotle University of Thessaloniki in the Data and Web Science Program.
+  I am a recent MSc graduate who loves combining machine learning with cybersecurity. I enjoy diving deep into vulnerability research and building solutions that actually make a difference. Currently exploring how AI can help us stay one step ahead of cyber threats!
 </p>
 
 
