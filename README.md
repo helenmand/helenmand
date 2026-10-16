@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I am Eleni 👋</h1>
 
 <p align="center">
-Data scientist passionate about applied machine learning research that creates meaningful impact while maintaining ethical standards and social responsibility.
 </p>
 
 
